@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Rutuja Gund",
+      "email": "rutuja@gmail.com",
+      "mobile": 9999999999,
+      "role": "Front End Developer",
+      "id": 1
+    },
+    {
+      "name": "Mukund Gund",
+      "email": "mukundgund@gmail.com",
+      "mobile": "7620288694",
+      "role": "Software Engineer",
+      "id": 3
+    },
+    {
+      "name": "vedika",
+      "email": "sd@gmail.com",
+      "mobile": "4544",
+      "role": "Back End Developer",
+      "id": 4
+    },
+    {
+      "name": "asc",
+      "email": "caca@gmail.com",
+      "mobile": "5646",
+      "role": "",
+      "id": 5
+    }
+  ]
+}
